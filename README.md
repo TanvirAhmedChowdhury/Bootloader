@@ -42,7 +42,6 @@ A simple bootloader written in Assembly that demonstrates how operating systems 
 - **Assembler**: [NASM (Netwide Assembler)](https://www.nasm.us/)
 - **Emulator**:
   - **Linux**: [QEMU](https://www.qemu.org/) or [Bochs](http://bochs.sourceforge.net/)
-  - **Windows**: [VirtualBox](https://www.virtualbox.org/) or [Bochs](http://bochs.sourceforge.net/)
 - **Git**: For cloning the repository.
 
 ---
