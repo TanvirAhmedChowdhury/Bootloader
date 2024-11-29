@@ -30,7 +30,6 @@ A simple bootloader written in Assembly that demonstrates how operating systems 
 
 - **Minimalistic Design**: Easy to understand for beginners in assembly language.
 - **Educational**: Learn how to interact with hardware directly.
-- **Cross-Compatible**: Can be tested on both Linux and Windows systems using emulators.
 - **Lightweight**: Compact size, typically 512 bytes.
 
 ---
@@ -55,7 +54,7 @@ git clone https://github.com/TanvirAhmedChowdhury/Bootloader.git
 cd Bootloader
 make
 qemu-system-x86_64 -hda bootloader.bin
-qemu-system-x86_64 -hda bootloader.bin  # Run again if needed
+
 
 
 
