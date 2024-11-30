@@ -75,7 +75,7 @@ qemu-system-x86_64 -hda bootloader.bin
   
   <hr>
   
-  Copyright © 2024 @Tanvir Ahmed (chy) (github.com/TanvirAhmedChowdhury)
+  **Copyright © 2024 Tanvir Ahmed (chy)**
 
 
 
